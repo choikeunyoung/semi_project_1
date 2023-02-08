@@ -125,15 +125,15 @@
 
 **페이지 구성 Figma**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/12c98116-a5cd-4f83-a09b-d1267d54c893/Untitled.png)
+![image](https://user-images.githubusercontent.com/108659935/217597659-ea3d080c-d726-4047-a0a7-db25bbdd40b1.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8ac5ae6c-4869-4632-950b-089703ae6ca6/Untitled.png)
+![image](https://user-images.githubusercontent.com/108659935/217597633-dd91fff5-de38-4f83-a801-8663a3816fd3.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5031aa70-7dc2-4173-8e37-134ad07b771d/Untitled.png)
+![image](https://user-images.githubusercontent.com/108659935/217597709-67ae520e-7eaa-4c31-8635-7013af8298ed.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a91487b-77da-4d35-9cdf-8bbb84fe1131/Untitled.png)
+![image](https://user-images.githubusercontent.com/108659935/217597763-110b43f0-4592-4c24-883a-0064583344dd.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ffc94960-2dcd-4df2-b38a-e566a01c114d/Untitled.png)
+![image](https://user-images.githubusercontent.com/108659935/217597811-810b8857-ee47-45f0-8a77-0d14d5daeec8.png)
 
 **모델 ERD 구성**
 
